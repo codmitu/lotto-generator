@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lotto-generator/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/lotto-generator/static/js/main.aa88cd95.chunk.js",
+    "main.js.map": "/lotto-generator/static/js/main.aa88cd95.chunk.js.map",
+    "runtime-main.js": "/lotto-generator/static/js/runtime-main.bc0fc2ee.js",
+    "runtime-main.js.map": "/lotto-generator/static/js/runtime-main.bc0fc2ee.js.map",
+    "static/js/2.cf4e6d9b.chunk.js": "/lotto-generator/static/js/2.cf4e6d9b.chunk.js",
+    "static/js/2.cf4e6d9b.chunk.js.map": "/lotto-generator/static/js/2.cf4e6d9b.chunk.js.map",
+    "static/js/3.d3ba6602.chunk.js": "/lotto-generator/static/js/3.d3ba6602.chunk.js",
+    "static/js/3.d3ba6602.chunk.js.map": "/lotto-generator/static/js/3.d3ba6602.chunk.js.map",
+    "index.html": "/lotto-generator/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/lotto-generator/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.cf4e6d9b.chunk.js.LICENSE.txt": "/lotto-generator/static/js/2.cf4e6d9b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc0fc2ee.js",
+    "static/js/2.cf4e6d9b.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.aa88cd95.chunk.js"
+  ]
+}
